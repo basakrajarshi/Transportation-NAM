@@ -66,4 +66,4 @@ for j in all_pairs_2:
     #shortest_path_lengths_2[jj = spl
     
     shortest_paths_2[jj] = new
-    shortest_path_lengths_2[jj] = c
+    shortest_path_lengths_2[jj] =   c
